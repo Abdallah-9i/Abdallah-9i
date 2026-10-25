@@ -1,8 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=140&section=header" width="100%"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Data+Analysis+%26+Engineering+Enthusiast" />
 
 ![University](https://img.shields.io/badge/Computer_Science-Umm_Al--Qura_University-2563EB?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Data_Analysis_%26_Engineering-gray?style=flat-square)
