@@ -24,9 +24,7 @@ I'm a **Computer Science student at Umm Al-Qura University** interested in **Dat
 
 ### Languages & Libraries
 
-<img src="https://skillicons.dev/icons?i=py,java" />
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,java" align="middle" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" align="middle" />
 
 ### Databases
 
@@ -34,6 +32,4 @@ I'm a **Computer Science student at Umm Al-Qura University** interested in **Dat
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git" />
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://skillicons.dev/icons?i=git" align="middle" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" align="middle" />
