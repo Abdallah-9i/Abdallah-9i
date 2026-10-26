@@ -19,6 +19,13 @@
 
 I'm a **Computer Science student at Umm Al-Qura University** interested in **Data Analysis and Data Visualization**.
 
+## Projects
+
+### [Amazon Sales Analysis](https://github.com/Abdallah-9i/amazon-sales-analysis) ![Status](https://img.shields.io/badge/Status-In_Progress-F2C811?style=flat-square)
+
+End-to-end analysis of 128,969 Amazon sales records: data cleaning, exploratory analysis, SQL analysis and Power BI dashboard.
+
+**Tools:** Python, Pandas, PostgreSQL, Power BI
 
 ## Tech Stack & Tools
 
