@@ -2,6 +2,9 @@
 <h1 align="center">Data Analysis Enthusiast</h1>
 
 ![University](https://img.shields.io/badge/Computer_Science-Umm_Al--Qura_University-555555?style=flat-square)
+
+<br>
+
 ![Focus](https://img.shields.io/badge/Focus-Data_Analysis-555555?style=flat-square)
 
 <br>
@@ -20,7 +23,7 @@ I'm a **Computer Science student at Umm Al-Qura University** interested in **Dat
 
 ## Projects
 
-### [Amazon Sales Analysis](https://github.com/Abdallah-9i/amazon-sales-analysis) ![Status](https://img.shields.io/badge/Status-In_Progress-F2C811?style=flat-square)
+### [Amazon Sales Analysis](https://github.com/Abdallah-9i/amazon-sales-analysis) 
 
 End-to-end analysis of 128,969 Amazon sales records: data cleaning, exploratory analysis, SQL analysis and Power BI dashboard.
 
