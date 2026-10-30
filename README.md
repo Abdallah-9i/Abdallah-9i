@@ -29,7 +29,7 @@ End-to-end analysis of 128,969 Amazon sales records: data cleaning, exploratory 
 
 **Tools:** Python, Pandas, PostgreSQL, Power BI
 
-## Tech Stack & Tools
+## Tools
 
 ### Languages & Libraries
 
