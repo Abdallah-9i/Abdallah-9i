@@ -29,6 +29,16 @@ End-to-end analysis of 128,969 Amazon sales records: data cleaning, exploratory 
 
 **Tools:** Python, Pandas, PostgreSQL, Power BI
 
+**Status:** ✅ Completed
+
+### [Letterboxd Stars Analysis](https://github.com/Abdallah-9i/letterboxd-stars-analysis)
+
+Analyzing 11M+ Letterboxd movie ratings to explore audience preferences, genre popularity, user behavior, and rating trends across release years.
+
+**Tools:** Python, Pandas, Jupyter Notebook, PostgreSQL, Power BI
+
+**Status:** 🚧 Work in Progress
+
 ## Tools
 
 ### Languages & Libraries
