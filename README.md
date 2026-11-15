@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,100:0d1117&height=180&section=header&text=Data%20Analytics&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:0d1117&height=180&section=header&text=Data%20Analytics&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descSize=18&descAlignY=58" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer_Science-Umm_Al--Qura_University-555555?style=flat-square" /><br>
