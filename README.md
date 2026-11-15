@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0d1117&height=180&section=header&text=Abdallah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analysis%20Enthusiast&descSize=18&descAlignY=58" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Data+Analysis+%26+Visualization;Python+%7C+SQL+%7C+Power+BI" />
+</div>
 د
 ![University](https://img.shields.io/badge/Computer_Science-Umm_Al--Qura_University-555555?style=flat-square)
 
