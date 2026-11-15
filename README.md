@@ -1,4 +1,4 @@
-<h1 align="center">Data Analysis Enthusiast</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0d1117&height=120&section=header&text=Data%20Analysis%20Enthusiast&fontSize=32&fontColor=ffffff" />
 
 ![University](https://img.shields.io/badge/Computer_Science-Umm_Al--Qura_University-555555?style=flat-square)
 
